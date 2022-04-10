@@ -1,0 +1,26 @@
+A) Classification ML exercise:
+
+binary:
+1a) !wget https://frenzy86.s3.eu-west-2.amazonaws.com/python/data/esercizi/heart.csv
+2a) !wget https://frenzy86.s3.eu-west-2.amazonaws.com/python/data/esercizi/parkinsons.csv
+3a) !wget https://frenzy86.s3.eu-west-2.amazonaws.com/python/data/esercizi/creditcard.csv
+
+multiclass:
+4a) !wget https://frenzy86.s3.eu-west-2.amazonaws.com/python/penguins.csv
+
+
+B) Text Mining:
+!wget https://frenzy86.s3.eu-west-2.amazonaws.com/python/nlp/bbc-data.csv
+(usare pipeline SpaCy)
+
+1b) risolvere l'esercizio come classificatore multiclass (5 classes)
+2b) risolvere l'esercizio come classificatore binario solo sport & business
+3b) risolvere l'esercizio come classificatore binario solo sport & politics
+4b) risolvere l'esercizio come classificatore binario solo sport & entertainment
+5b) risolvere l'esercizio come classificatore binario solo sport & tech
+6b) risolvere l'esercizio come classificatore binario solo business & politics
+7b) risolvere l'esercizio come classificatore binario solo business & entertainment
+8b) risolvere l'esercizio come classificatore binario solo business & tech
+9b) risolvere l'esercizio come classificatore binario solo politics & entertainment    
+10b) risolvere l'esercizio come classificatore binario solo politics & tech
+11b) risolvere l'esercizio come classificatore binario solo entertainment & tech
